@@ -7,9 +7,10 @@ Modelos de implantacao Cloud, Hibridada, Onpremises.
 
 Material: [Clique aqui para ver a Anotação 2](modelos-implementacao/modelos-implementacao.md)
 
-## Seção 2: Principais Pontos
+## Seção 2: Conceitos de divisao AWS
 
-Destaque aqui os principais pontos e conceitos que você deseja registrar.
+Regiao, Zona e borda.
+Material: [Clique aqui para ver a Anotação 2](conceitos-divisao/conceitos-divisao.md)
 
 ### Subseção 2.1: Detalhes Importantes
 
