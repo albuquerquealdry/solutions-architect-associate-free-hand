@@ -16,9 +16,9 @@ Material: [Clique aqui para ver a Anotação 2](conceitos-divisao/conceitos-divi
 
 Se necessário, adicione subseções para abordar detalhes específicos.
 
-## Seção 3: Exemplos
+## Seção 3: Materiais variados que ajudam em cenarios de arquitetura
 
-Inclua exemplos práticos ou casos de uso relevantes.
+Material: [PUB/SUB](https://aws.amazon.com/pt/what-is/pub-sub-messaging/)
 
 ## Seção 4: Dicas Rápidas
 

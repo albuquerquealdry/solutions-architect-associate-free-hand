@@ -1,0 +1,1 @@
+https://d1.awsstatic.com/pt_BR/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Sample-Questions_C03.pdf
